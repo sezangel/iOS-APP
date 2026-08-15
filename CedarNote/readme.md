@@ -4,7 +4,7 @@ Your thoughts deserve a quiet place—not an account, a feed, or another subscri
 
 CedarNote is a calm, privacy-focused notepad for capturing ideas, checklists, journals, and everyday details. Start writing instantly, stay organized, and keep control of your data.
 
-![image](.picture/Simulator Screenshot - iPhone 14 Plus - 2026-08-15 at 22.21.38)
+![image](.picture/Simulator Screenshot - iPhone 14 Plus - 2026-08-15 at 22.21.38.png)
 
 WRITE WITHOUT DISTRACTIONS
 
