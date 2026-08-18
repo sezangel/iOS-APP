@@ -1,0 +1,11 @@
+# VeilStamp Support
+
+VeilStamp helps you redact sensitive content from a single image with a review-before-export workflow.
+
+## How to use
+
+1. Import or capture one image.
+2. Review suggested regions and add or adjust masks manually.
+3. Confirm the review checklist, then export a flattened copy.
+
+Images remain on-device unless you explicitly share an exported copy. For help, contact 504302989@qq.com.
