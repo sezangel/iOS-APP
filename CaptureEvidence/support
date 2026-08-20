@@ -1,0 +1,30 @@
+## CaptureEvidence
+
+One press. Five shots. Tamper-proof evidence.
+
+CaptureEvidence is a single-button field tool for people facing property damage, leaks, delivery disputes, or on-site incidents. It turns chaotic panic-photography into an ordered, hash-verified, read-only evidence package.
+
+GUIDED FORENSIC CAPTURE
+
+• Long-press to start a new evidence event
+• Safety and legality confirmation before any camera access
+• Fixed five-step sequence: scene-wide, damage subject, detail, scale reference, meter/label
+• Add a factual note (not a fault judgment) after completing all five shots
+
+TAMPER-PROOF INTEGRITY
+
+• SHA-256 hash computed for every original photo immediately after capture
+• Read-only manifest with per-file hashes and a package fingerprint
+• Originals are never modified or edited
+• Event timeline shows all captures in step order with timestamps
+
+PRIVATE AND SHAREABLE
+
+• Redacted share copies with draggable blur masking for faces, plates, and addresses
+• ZIP export with originals, redacted copies, manifest.json, and note.txt
+• Share via system share sheet (Files, AirDrop, Mail)
+• All data stays on-device with no server, no cloud, no analytics
+
+CaptureEvidence is available in English, Simplified Chinese, Japanese, Korean, French, and Spanish.
+
+One press. Five shots. Tamper-proof evidence.
